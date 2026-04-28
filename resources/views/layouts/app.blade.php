@@ -216,7 +216,6 @@
         font-size: 14px;
         letter-spacing: 0.5px;
 
-        /* gradient soft sesuai tema */
         background: linear-gradient(135deg, #d4c4a8, #b8a78f);
 
         color: #2c2c2c;
@@ -226,14 +225,12 @@
         transition: all 0.3s ease;
     }
 
-    /* hover effect */
     .btn-premium:hover {
         background: linear-gradient(135deg, #e0d2b8, #c5b39c);
         transform: translateY(-2px);
         box-shadow: 0 10px 22px rgba(180, 160, 120, 0.45);
     }
 
-    /* klik effect */
     .btn-premium:active {
         transform: translateY(0);
         box-shadow: 0 4px 10px rgba(180, 160, 120, 0.3);

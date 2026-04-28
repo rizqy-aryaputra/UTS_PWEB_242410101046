@@ -8,7 +8,7 @@
         <p>Dikelola oleh: <strong>{{ $username }}</strong></p>
     @endif
 
-    <p>Halaman ini menampilkan data stok produk yang dikirim dari Controller dalam bentuk array, lalu ditampilkan menggunakan perulangan Blade.</p>
+    <p>Halaman ini menampilkan data stok produk</p>
 </div>
 
 <br>
